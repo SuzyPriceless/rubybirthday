@@ -1,0 +1,4 @@
+#!/usr/bin/ruby -w
+
+require 'date'
+Date.parse('2017-01-03') #=> #
