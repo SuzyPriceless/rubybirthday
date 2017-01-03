@@ -7,6 +7,6 @@ please see ruby1
 from terminal, make the file executable and execute it:
 
 ```sh
-$ chmod +x
+$ chmod +x bday.rb
 $ ./bday.rb
 ```
