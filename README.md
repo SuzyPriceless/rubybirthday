@@ -1,3 +1,3 @@
 # rubybirthday
 write a simple birthday greeting in Ruby
-please see ruby1
+please see bday1.rb
